@@ -44,6 +44,6 @@ Garantiza una experiencia de usuario fluida y sin contratiempos.
 
 ## Author
 
-- GitHub - [StalinAM](https://github.com/Lkiut)
+- GitHub - [Leidy Correa S (Lkiut)](https://github.com/Lkiut)
 - ONE – Oracle Next Education - [Oracle](https://www.oracle.com/lad/education/oracle-next-education/)
 - Alura LATAM - [Alura](https://www.aluracursos.com/)
