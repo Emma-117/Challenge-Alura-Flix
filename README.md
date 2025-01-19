@@ -1,8 +1,8 @@
-# Aluraflix - Challenge ONE React - Leidy Correa S
+# Aluraflix - Challenge ONE React - Emmanuel Herrera
 
 ![](./public/desktop.webp)
 
-El propósito de este desafío es desarrollar una plataforma similar a Netflix, pero dedicada a los cursos de Alura. 🎬📚 Aquí, los usuarios podrán explorar una amplia variedad de cursos organizados por categorías 📂 y tendrán la oportunidad de contribuir al contenido, agregando nuevos videos y categorías. 🎥🆕👨🏻
+El propósito de este desafío es desarrollar una plataforma similar a Netflix llamada Aluraflix, con lo aprendido en los cursos de Alura. 🎬📚 Aquí, los usuarios podrán explorar una amplia variedad de cursos organizados por categorías 📂 y tendrán la oportunidad de contribuir al contenido, agregando nuevos videos y categorías. 🎥🆕👨🏻
 
 
 ## Resumen
@@ -44,6 +44,6 @@ Garantiza una experiencia de usuario fluida y sin contratiempos.
 
 ## Author
 
-- GitHub - [Leidy Correa S (Lkiut)](https://github.com/Lkiut)
+- GitHub - [Emma-117](https://github.com/Lkiut)
 - ONE – Oracle Next Education - [Oracle](https://www.oracle.com/lad/education/oracle-next-education/)
 - Alura LATAM - [Alura](https://www.aluracursos.com/)
